@@ -28,6 +28,29 @@ thickness=46
 maxLength=1920
 minLength=688
 
+[PlasmaViews][Panel 144]
+floating=1
+panelVisibility=1
+
+[PlasmaViews][Panel 144][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 145]
+floating=1
+panelOpacity=2
+panelVisibility=1
+
+[PlasmaViews][Panel 145][Defaults]
+thickness=44
+
+[PlasmaViews][Panel 172]
+floating=1
+panelOpacity=2
+panelVisibility=1
+
+[PlasmaViews][Panel 172][Defaults]
+thickness=44
+
 [PlasmaViews][Panel 29]
 floating=1
 
@@ -50,6 +73,7 @@ thickness=44
 
 [PlasmaViews][Panel 54]
 floating=1
+panelOpacity=2
 panelVisibility=1
 
 [PlasmaViews][Panel 54][Defaults]

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d3c8cb11ffb8da9c",
+        "id": "9006cf32bead7065",
         "type": "tabs",
         "children": [
           {
-            "id": "04e8ef2b59213c1b",
+            "id": "8e9286522b73f837",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - Templates/Task Template.md",
+                "file": "Excalidraw/Home Page.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,104 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Task Template"
-            }
-          },
-          {
-            "id": "ead152e368d65b04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 - Tasks/SQL Tasks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "SQL Tasks"
-            }
-          },
-          {
-            "id": "8bab5cf1d652d5e6",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Stack.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    null,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Stack"
-            }
-          },
-          {
-            "id": "48b6b9413db02018",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "yazi.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "yazi"
-            }
-          },
-          {
-            "id": "923d4fedc39098e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 - Tasks/Hobby Tasks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Hobby Tasks"
+              "title": "Home Page"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#exam",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 284.5
   },
   "right": {
     "id": "a1b58a15a2d16fe5",
@@ -198,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8 - Projects/Projects.md",
+                "file": "Calendario Clase.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Projects"
+              "title": "Backlinks for Calendario Clase"
             }
           },
           {
@@ -217,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8 - Projects/Projects.md",
+                "file": "2 - Tags/Zettelkasten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Projects"
+              "title": "Outgoing links from Zettelkasten"
             }
           },
           {
@@ -246,17 +152,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8 - Projects/Projects.md",
+                "file": "4 - DailyNotes/2026-01-27.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Projects"
+              "title": "Outline of 2026-01-27"
             }
           },
           {
-            "id": "8906e82bd9f88409",
+            "id": "6f79dc07a1944673",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "366e0a700965599d",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -270,41 +186,21 @@
             }
           },
           {
-            "id": "29d1c65c29238028",
+            "id": "cceb25a8f24d4998",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
-            }
-          },
-          {
-            "id": "78929cf189cfe4cd",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "planner-timeline"
-            }
-          },
-          {
-            "id": "bccc6011d286dd0e",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
               "icon": "calendar-with-checkmark",
-              "title": "Timeline"
+              "title": "Calendar"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 649.5,
+    "width": 482.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -323,57 +219,67 @@
       "templater-obsidian:Templater": false,
       "dbfolder:Create a new database table": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "homepage:Open homepage": false,
+      "tasknotes:Open mini calendar": false,
+      "tasknotes:Open advanced calendar": false,
+      "tasknotes:Open task list": false,
+      "tasknotes:Open kanban board": false,
+      "tasknotes:Open agenda": false,
+      "tasknotes:Open pomodoro": false,
+      "tasknotes:Open pomodoro stats": false,
+      "tasknotes:Create new task": false
     }
   },
-  "active": "48b6b9413db02018",
+  "active": "8e9286522b73f837",
   "lastOpenFiles": [
-    "Stack.md",
-    "Linux quicksheet.md",
-    "tmux.md",
-    "yazi.md",
-    "10 - Tasks/Clase.md",
-    "10 - Tasks/Tasks.md",
-    "10 - Tasks/SQL Tasks.md",
-    "10 - Tasks/Hobby Tasks.md",
-    "10 - Tasks/Coding Tasks.md",
+    "12 - TaskNotes/Views/kanban-default.base",
+    "Excalidraw/Home Page.md",
+    "12 - TaskNotes/Views/agenda-default.base",
+    "12 - TaskNotes/Views/mini-calendar-default.base",
+    "12 - TaskNotes/Archive/Hacer Ejercicios PSP con UDP.md",
+    "12 - TaskNotes/Archive/Terminar nivel de moviles.md",
+    "12 - TaskNotes/Archive/Pasar datos de la tablet a obisidan.md",
+    "12 - TaskNotes/Views/calendar-default.base",
+    "12 - TaskNotes/Views/relationships.base",
+    "12 - TaskNotes/Views/tasks-default.base",
+    "8 - Projects/PSP/Proyecto TCP.md",
+    "1.3 - Programming Stuff/API.md",
+    "5 - Templates/DailyNoteTemplate.md",
     "5 - Templates/Task Template.md",
     "5 - Templates/Apuntes.md",
     "5 - Templates/Notes.md",
-    "Home Page.md",
-    "2 - Tags/Obsidian.md",
-    "Dudas.md",
-    "10 - Tasks",
-    "Untitled.md",
-    "1.2 - Unfinished/Vi.md",
-    "1.5 - Curso/Examen PSP.md",
-    "1.5 - Curso/Corrección Examen.md",
-    "1.2 - Unfinished/Linux Commands.md",
-    "1.2 - Unfinished/git.md",
-    "1.5 - Curso/CosaClase.md",
-    "1.2 - Unfinished/Consultas Programacion.md",
-    "2 - Tags/Programacion.md",
-    "2 - Tags/PersonalCode.md",
-    "1 - MainFolder/My Coding Standards.md",
+    "4 - DailyNotes/2026-02-14.md",
+    "8 - Projects/MOV/Spacevania.md",
+    "8 - Projects/MOV/Proyecto MOV.md",
+    "Stack.md",
+    "Vacas.md",
+    "1 - MainFolder/CORE Concept.md",
+    "1.3 - Programming Stuff/Docker.md",
+    "1.3 - Programming Stuff/DotNet.md",
+    "1.3 - Programming Stuff/gRPC.md",
+    "1.3 - Programming Stuff/GraphQL.md",
+    "1.3 - Programming Stuff/Search Server.md",
+    "1.3 - Programming Stuff/Load Balancer.md",
+    "1.3 - Programming Stuff/API Gateway.md",
+    "1.3 - Programming Stuff/Tyk.md",
+    "1.3 - Programming Stuff/Apigee.md",
+    "Horario.png",
+    "Calendario Clase.base",
+    "8 - Projects/TFG/Untitled.canvas",
+    "12 - TaskNotes/Archive",
+    "12 - TaskNotes/Tasks",
+    "12 - TaskNotes",
+    "8 - Projects/TemplateFolder/Untitled.canvas",
+    "6 - Resources/Pasted image 20260204202546.png",
+    "6 - Resources/Pasted image 20260204191115.png",
+    "6 - Resources/Pasted image 20260204171140.png",
+    "6 - Resources/Pasted image 20260204171041.png",
     "Untitled.canvas",
-    "1.5 - Curso/Horario.png",
-    "6 - Resources/Pasted Image 20251214143547_820.png",
-    "6 - Resources/Pasted Image 20251214142516_242.png",
-    "6 - Resources/Pasted Image 20251214140400_110.png",
-    "6 - Resources/Pasted Image 20251214133609_673.png",
-    "Untitled Diagram.drawio",
-    "1.2 - Unfinished",
-    "6 - Resources/Pasted image 20251202182209.png",
-    "7 - AUX/Casino.drawio",
-    "6 - Resources/Pasted image 20251123133402.png",
-    "6 - Resources/Pasted image 20251123133345.png",
-    "6 - Resources/Pasted image 20251123133325.png",
-    "6 - Resources/Pasted image 20251123133310.png",
-    "9 - Movil",
-    "8 - Projects",
-    "Excalidraw",
-    "1.5 - Curso",
-    "7 - AUX",
-    "6 - Resources"
+    "6 - Resources/Pasted image 20260122185059.png",
+    "6 - Resources/Pasted image 20260122185014.png",
+    "6 - Resources/Pasted image 20260113104424.png",
+    "7 - AUX/CasinoPNG.png",
+    "7 - AUX/CasinoSVG.svg"
   ]
 }

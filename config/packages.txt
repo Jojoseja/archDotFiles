@@ -1,0 +1,9 @@
+zsh
+kitty
+tmux
+bat
+yazi
+lazygit
+lazydocker
+zoxide
+btop

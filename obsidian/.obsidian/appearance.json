@@ -3,10 +3,11 @@
   "showViewHeader": true,
   "showRibbon": true,
   "enabledCssSnippets": [
-    "MCL Multi Column"
+    "MCL Multi Column",
+    "S - Callouts"
   ],
   "interfaceFontFamily": "JetBrains Mono",
-  "monospaceFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrain Mono Nerd",
   "textFontFamily": "JetBrains Mono",
   "baseFontSize": 14
 }
