@@ -1,0 +1,23 @@
+Obsidian Plugins Used:
+
+AdvancedTables
+Calendar
+Dataview
+dbfolder
+Drawio
+Editing Toolbar
+HomePage
+Obsidian Banners
+Obsidian-Day-Planner
+Excalidraw
+Full Calendar
+Iconize
+Kanban
+MindMap
+StyleSettings
+Tasks
+TasksNotes
+TableEditor
+Templater
+
+Theme: AnaPuccin
